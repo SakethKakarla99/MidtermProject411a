@@ -9,7 +9,7 @@ Home Screen(Recipes List)
 -> Each recipe row includes a favorite toggle button
 -> Clicking a recipe navigates to its Details Screen
 -> Clicking Favorites button in the header will navigate to the Favorites Screen
-![App Screenshot] (<img width="450" height="591" alt="HomeScreenApp" src="https://github.com/user-attachments/assets/66cc07f7-ab06-4049-847a-6eb257185479" />)
+(<img width="450" height="591" alt="HomeScreenApp" src="https://github.com/user-attachments/assets/66cc07f7-ab06-4049-847a-6eb257185479" />)
 
 
 
