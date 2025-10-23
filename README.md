@@ -27,7 +27,8 @@ Favorites Screen
 <img width="441" height="551" alt="image" src="https://github.com/user-attachments/assets/9084061e-5108-4852-8d04-6f797650fb1d" />
 
 Demo:
-https://github.com/SakethKakarla99/MidtermProject411a/blob/main/Demo.mp4
+https://www.youtube.com/watch?v=f900xjbCWB4
+
 
 
 
